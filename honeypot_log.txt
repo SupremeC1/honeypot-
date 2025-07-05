@@ -1,0 +1,12 @@
+2025-07-05 14:57:48,801 - Connection from IP: 127.0.0.1
+2025-07-05 14:57:48,803 - Data received: GET / HTTP/1.1
+Host: localhost:8000
+User-Agent: curl/8.7.1
+Accept: */*
+
+
+2025-07-05 16:02:26,715 - Connection from IP: 127.0.0.1
+2025-07-05 16:02:26,716 - Data received: GET / HTTP/1.1
+Host: localhost:8000
+User-Agent: curl/8.7.1
+Accept: */*
